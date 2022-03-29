@@ -1,0 +1,1 @@
+这是 AES + AES/ECB/PKCS7Padding 加解密字符串，由于 Java 对 PKCS7Padding 支持的不是很好，Hutool 也没独立支持 PKCS7Padding，故自己实现。
